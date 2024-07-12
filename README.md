@@ -1,1 +1,2 @@
 # Hirst_painting
+This Python script uses the Turtle graphics module to create a digital version of a Damien Hirst-style painting. It generates a 10x10 grid of colored dots, where each dot is randomly chosen from a predefined list of RGB colors. The script sets up the Turtle environment, positions the turtle to start drawing, and uses loops to create and position each dot in the grid. The final pattern is displayed in a Turtle graphics window that remains open until clicked.
